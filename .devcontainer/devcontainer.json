@@ -1,5 +1,5 @@
 {
 	"extensions": [
-		"vscode.java-pack"
+		"vscjava.vscode-java-pack"
 	]
 }
