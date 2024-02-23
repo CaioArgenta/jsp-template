@@ -1,1 +1,4 @@
-image: gitpod/workspace-java-17
+
+scode:
+    extensions:
+      - vscode.java-pack
