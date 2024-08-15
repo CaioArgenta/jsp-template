@@ -1,3 +1,5 @@
+image: gitpod/workspace-java-21
+
 vscode:
     extensions:
-      - vscode.java-pack
+      - vscjava.vscode-java-pack
